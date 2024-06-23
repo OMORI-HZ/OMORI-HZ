@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm OMORI</h1>
 <h3 align="center">new on community. |frontend✓ | py✓ | js✓ | {unethical ʜacĸeʀ 👾}</h3>
